@@ -1,8 +1,1 @@
-{
-  "version": "1.0.15",
-  "assetUrl": "https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v1.0.15/tax_todo-v1.0.15.zip",
-  "digest": "sha256:1f3238e265568440bf4418808c8bdef6e8db4bf05605f3400b74dfba8c0ab96a",
-  "size": 19533376,
-  "releaseUrl": "https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v1.0.15",
-  "notes": "修复 Bug。"
-}
+{"notes":"修复 Bug。","size":19533265,"digest":"sha256:3796ab1f49fd8930455e9e7f3f8f0ec9c7bb9a3243f1d073397fafada7961603","assetUrl":"https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v1.0.16/tax_todo-v1.0.16.zip","releaseUrl":"https://github.com/jinjiadi-collab/tax-todo-updates/releases/tag/v1.0.16","version":"1.0.16"}
