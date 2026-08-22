@@ -1,8 +1,8 @@
 {
   "version": "1.0.14",
   "assetUrl": "https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v1.0.14/tax_todo-v1.0.14.zip",
-  "digest": "sha256:fb0c6249d37b166e6c6b2c71dd7be7d57d417b5e855bfcdb1aec01d669ea2737",
-  "size": 19531628,
+  "digest": "sha256:3a9d572d9119358ff3f22b6c14109d08253ec822bdaff7a7136115386cd32656",
+  "size": 19531425,
   "releaseUrl": "https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v1.0.14",
   "notes": "修复 Bug。"
 }
