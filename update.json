@@ -1,1 +1,8 @@
-{"notes":"修复 Bug。","size":19533265,"digest":"sha256:3796ab1f49fd8930455e9e7f3f8f0ec9c7bb9a3243f1d073397fafada7961603","assetUrl":"https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v1.0.16/tax_todo-v1.0.16.zip","releaseUrl":"https://github.com/jinjiadi-collab/tax-todo-updates/releases/tag/v1.0.16","version":"1.0.16"}
+{
+  "version": "2.0",
+  "assetUrl": "https://github.com/jinjiadi-collab/tax-todo-updates/releases/download/v2.0/tax_todo-v2.0.zip",
+  "digest": "sha256:4638edd26aa5f4fe903ba80f70518380053dc110c72a3ecca4ac13f24b6c0560",
+  "size": 17136970,
+  "releaseUrl": "https://github.com/jinjiadi-collab/tax-todo-updates/releases/tag/v2.0",
+  "notes": "- 全新蓝白界面，统一字体、图标、按钮及各类设置窗口。\n- 重新整理企业管理与征期详情，信息展示更清晰，操作更集中。\n- 优化界面空间分配，小窗口下也能方便查看和处理待办。\n- 完善更新校验与安装流程，支持更新器同步升级。"
+}
